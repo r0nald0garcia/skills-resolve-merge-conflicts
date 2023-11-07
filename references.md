@@ -1,5 +1,10 @@
-<<<<<<< main
+
+
 ## Jobs
 =======
 ## Job Stori
->>>>>>> main
+
+# References
+
+* octocat 1 😈
+
